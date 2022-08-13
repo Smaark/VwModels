@@ -9,3 +9,5 @@ public abstract class Volkswagen implements Car {
 
     public abstract String getModelName();
 }
+
+// Abstract class, egy fő class, amelyik classok ebből származnak le (extends) azok az Abstract class tulajdonságait is megöröklik
